@@ -1,4 +1,2 @@
-# elearning_ionic
-# mobprog_designP6
-# bimbingan_edmr
+# ionic
 # bimbingan_edmr_backup
